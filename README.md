@@ -10,16 +10,6 @@ Aside from software development, I'm interested in technological advancements, d
 
 ### 📫 You Can Find Me Here!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/angelo-gonza)  
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6orsc468zs7lp466a1x726uf9)
-
----
-
-### 🎧 Spotify Recently Played  
-<div align="center">
-  <a href="https://open.spotify.com/user/6orsc468zs7lp466a1x726uf9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6orsc468zs7lp466a1x726uf9&count=5&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
 
 ---
 
