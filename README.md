@@ -8,7 +8,7 @@ Aside from software development, I'm interested in technological advancements, d
 
 ---
 
-### 📫 You Can Find Me Here!  
+### 📫Connect with me!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/angelo-gonza)  
 
 ---
