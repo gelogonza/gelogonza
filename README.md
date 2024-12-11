@@ -1,10 +1,7 @@
-### Hello there! 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello,+I'm+Angelo!;A+Front-end+Developer.;A+Tech+Enthusiast.;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
-I'm [**Angelo**](https://gelogonza.com), a computer science student from Louisville, KY.  
-
-I'm very interested in **full-stack development**, but I am very passionate about **front-end**.  
-
-Aside from software development, I'm interested in technological advancements, developments in science, working out, and playing video games.
 
 ---
 
