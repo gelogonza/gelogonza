@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello,+I'm+Angelo!;A+Full-stack+Developer.;A+Computer+Science+Student.;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+### Hello there! 👋  
 
+I'm [**Angelo**](https://gelogonza.com), a computer science student from Louisville, KY.  
+
+I'm very interested in **full-stack development**, but I am very passionate about **front-end**.  
+
+Aside from software development, I'm interested in technological advancements, developments in science, working out, and playing video games.
 
 ---
 
@@ -22,14 +25,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats  
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gelogonza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
-</div>
-
----
 
