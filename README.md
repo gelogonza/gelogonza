@@ -1,5 +1,8 @@
 <!-- petals -->
 <div>
+    <p align="center">
+    <img src="./starfield%20.gif" alt="starfield" width="480" />
+</p>
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
 <p align="center">
