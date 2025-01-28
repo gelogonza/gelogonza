@@ -29,8 +29,8 @@
       <br>JavaScript
     </td>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQl
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
