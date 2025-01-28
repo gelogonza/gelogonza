@@ -4,8 +4,8 @@
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🥳+Welcome!+🥳;+Have+a+look+around+!+;&font=Poppin%20Code&color=%23D62F79&center=true&width=280&height=40"></p>
-<p align="center"
-   ></p>
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqd2FmenJxeGg4ZjBoMTZtbnoxZXJ0NXpta2d4bW1kcTRmdXNlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69zkZcvtDiyqVkBMQX/giphy.gif" alt="Lightning GIF" width="480" />
 </p>
 </div>
 
@@ -62,4 +62,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" width="100%"/>
 </p>
-
