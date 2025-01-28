@@ -1,7 +1,7 @@
 <!-- petals -->
 <div>
-   <p align="center">
-    <img src="./starfield.gif" alt="Starfield GIF" width="100%" height="200px" />
+<p align="center">
+   <img src="./lightning.gif" alt="Lightning Banner" width="100%" height="200px" />
 </p>
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
