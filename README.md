@@ -1,28 +1,66 @@
-### Hello there! 👋  
+<!-- petals -->
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="150px" width="20%" style="display:inline;"><img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="150px" width="20%" style="display:inline;">
+<h1 align="center">✩&emsp;Hello there, I'm Tina!👋 &emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🥳+Welcome!+🥳;+Have+a+look+around+!+;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=40"></p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=✨🌷🪻🌷🪻🌷🪻🌷🪻🌷✨;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50"></p>
+</p>
+</div>
 
-I'm [**Angelo**](https://gelogonza.com), a computer science student from Louisville, KY.  
+<!-- Skills -->
+<div align="center"><h1>Tech Stack</h1></div>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQl
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+      <br>CSS
+    </td>
+    </td>
+<!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td> -->
+      </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65"alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
+      <br>VsCode
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+<br><br>
+</div>
 
-I'm very interested in **full-stack development**, but I am very passionate about **front-end**.  
-
-Aside from software development, I'm interested in technological advancements, developments in science, working out, and playing video games.
-
----
-
-### 📫Connect with me!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/angelo-gonza)  
-
----
-
-### 🚀 Skills
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<!-- snake graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" width="100%"/>
 </p>
 
