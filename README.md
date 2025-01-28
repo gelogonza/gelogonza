@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=🥳+Welcome!+🥳;+Have+a+look+around+!+;&font=Poppin%20Code&color=%23D62F79&center=true&width=280&height=40"></p>
 <p align="center">
-    <img src="./assets/lightning.gif" alt="Lightning GIF" width="480" />
+   
 </p>
 </div>
 
