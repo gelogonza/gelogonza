@@ -1,6 +1,6 @@
 <!-- petals -->
 <div>
-
+![Lightning GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJqd2FmenJxeGg4ZjBoMTZtbnoxZXJ0NXpta2d4bW1kcTRmdXNlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69zkZcvtDiyqVkBMQX/giphy.gif)
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
 <p align="center">
