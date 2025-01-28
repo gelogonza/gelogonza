@@ -1,7 +1,7 @@
 <!-- petals -->
 <div>
 <p align="center">
-   <img src="./clouds.gif" alt="clouds" />
+   <img src="./clouds.gif" alt="clouds" width="100%" />
 </p>
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
