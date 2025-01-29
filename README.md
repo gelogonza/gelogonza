@@ -6,8 +6,8 @@
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/demo/?pause=500&color=64FFDA&center=true&vCenter=true&lines=Welcome!;Have+a+look+around!"/>
-</p>   
+    <img src="https://readme-typing-svg.herokuapp.com/?pause=500&color=64FFDA&center=true&vCenter=true&lines=Welcome!;Have+a+look+around!" alt="Typing Animation" />
+</p>
 </div>
 
 <!-- Skills -->
