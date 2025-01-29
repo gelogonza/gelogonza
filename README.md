@@ -6,7 +6,7 @@
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
 </p>
 <p align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=64FFDA&width=435&lines=Welcome!;Have+a+look+around!)](https://git.io/typing-svg)></p>   
+    https://readme-typing-svg.herokuapp.com/demo/?pause=500&color=64FFDA&center=true&vCenter=true&lines=Welcome!;Have+a+look+around!></p>   
 </p>
 </div>
 
