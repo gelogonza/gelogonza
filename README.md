@@ -16,6 +16,15 @@
 <table align="center">
   <tr>
       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+      <br>C++
+    </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
@@ -26,10 +35,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
@@ -60,11 +65,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
       <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-      <br>C++
-    </td>
   </tr>
 </table>
 <br><br>
