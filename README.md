@@ -1,4 +1,3 @@
-<!-- petals -->
 <div>
 <p align="center">
    <img src="./clouds.gif" alt="clouds" width="100%" />
@@ -10,7 +9,6 @@
 </p>
 </div>
 
-<!-- Skills -->
 <div align="center"><h1>Technologies</h1></div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
