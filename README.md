@@ -1,9 +1,5 @@
 <div>
-<p align="center">
-   <img src="./clouds.gif" alt="clouds" width="100%" />
-</p>
 <h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
-</p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?pause=500&color=64FFDA&center=true&vCenter=true&lines=Welcome!;Have+a+look+around!" alt="Typing Animation" />
 </p>
