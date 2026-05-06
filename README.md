@@ -1,11 +1,8 @@
 <div>
-<h1 align="center">&emsp;Hello there, I'm Angelo!👋 &emsp;</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?pause=500&color=64FFDA&center=true&vCenter=true&lines=Welcome!;Have+a+look+around!" alt="Typing Animation" />
-</p>
+<h1 align="leftr">&emsp;Hola, Soy Angelo!👋 &emsp;</h1>
 </div>
 
-<div align="center"><h1>Technologies</h1></div>
+<div align="left"><h1>Technologies</h1></div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
