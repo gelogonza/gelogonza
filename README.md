@@ -1,5 +1,5 @@
 <div>
-<h1 align="leftr">&emsp;Hola, Soy Angelo!👋 &emsp;</h1>
+<h1 align="left">&emsp;Hola, Soy Angelo!👋 &emsp;</h1>
 </div>
 
 <div align="left"><h1>Technologies</h1></div>
