@@ -1,14 +1,14 @@
 <h1>Hola, Soy Angelo! 👋</h1>
 
-I’m a design engineer. I build unique systems with a focus on user experience and interface design. Currently studying Informatics at IU Bloomington with a specialization in Web Design & Development.
+I’m a design engineer? I like to build unique systems with a focus on user experience and interface design. Currently studying Informatics at IU Bloomington with a specialization in Web Design & Development.
 
-Outside of code, I work with Blender, Adobe Creative Cloud (Illustrator, Photoshop, After Effects), Premiere Pro, DaVinci Resolve, and CapCut.
-
-**Languages:** Python, Java, C++, JavaScript, HTML, CSS, SQL
+**Languages:** Python, JavaScript, C++, Java, Typescript, HTML/CSS, SQL, PHP
 
 **Frameworks & Tools:** React, Node.js, Express, Django, Flask, FastAPI, Next.js, Tailwind CSS
 
-**Cloud & Infra:** AWS
+**Creative Tools:** Figma, Blender, Paper, Miro, Framer, Adobe Creative Suite(Ps, Ae, Ai), Lovable
+
+**Cloud & Infra:** AWS, GCP
 
 **Portfolio:** [angelogonza.com](https://angelogonza.com)
 
