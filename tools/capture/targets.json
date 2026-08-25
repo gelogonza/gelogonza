@@ -1,0 +1,70 @@
+[
+  {
+    "name": "pointvis",
+    "source": { "url": "https://pointvis.vercel.app/" },
+    "viewport": [1000, 625],
+    "permissions": ["microphone"],
+    "fakeAudio": { "seconds": 30 },
+    "settle": 2000,
+    "steps": [
+      { "clickText": "microphone" },
+      { "wait": 4000 }, { "key": "1" },
+      { "wait": 4000 }, { "key": "2" },
+      { "wait": 4000 }, { "key": "3" },
+      { "wait": 4000 }, { "key": "4" },
+      { "wait": 4000 }, { "key": "5" },
+      { "wait": 4000 }, { "key": "6" }
+    ],
+    "segments": [
+      { "start": 11.8, "duration": 2.2 },
+      { "start": 19.8, "duration": 2.2 },
+      { "start": 27.5, "duration": 2.2 }
+    ],
+    "encode": { "width": 440, "fps": 10, "quality": 35 },
+    "budgetKb": 1000,
+    "note": "Kaleidoscope, lava lamp and halftone modes. Dense particle noise is the worst case for compression here, hence the tighter encode."
+  },
+  {
+    "name": "motion-canvas",
+    "source": { "url": "https://motion-canvas-seven.vercel.app/" },
+    "viewport": [1000, 625],
+    "permissions": ["camera"],
+    "fakeCamera": { "seconds": 20 },
+    "settle": 2500,
+    "steps": [{ "clickText": "START THE INSTRUMENT" }, { "wait": 16000 }],
+    "clip": { "start": 9, "duration": 5 },
+    "encode": { "width": 600, "fps": 15, "quality": 60 }
+  },
+  {
+    "name": "pixelate",
+    "source": { "url": "https://pixelate-seven.vercel.app" },
+    "viewport": [1100, 690],
+    "settle": 14000,
+    "clip": { "start": 5, "duration": 5 },
+    "encode": { "width": 520, "fps": 12, "quality": 48 },
+    "note": "The landing panel cycles styles on its own -- no interaction needed."
+  },
+  {
+    "name": "geloos",
+    "source": { "url": "https://angelogonza.com" },
+    "viewport": [1100, 690],
+    "readyWhen": ".desktop-icon",
+    "settle": 14000,
+    "steps": [
+      { "click": ".desktop-icon:has-text('projects')" },
+      { "wait": 1400 },
+      { "drag": { "selector": ".window:visible .window-bar", "dx": -190, "dy": 55, "steps": 34 } },
+      { "wait": 1500 }
+    ],
+    "clip": { "start": 21, "duration": 5.5 },
+    "encode": { "width": 600, "fps": 15, "quality": 60 },
+    "note": "Boot sequence runs first and is session-scoped, so settle generously before interacting. All 11 windows exist in the DOM at once -- :visible picks the open one."
+  },
+  {
+    "name": "syro",
+    "source": { "manual": "the whole UI sits behind Spotify OAuth, so it cannot be driven headlessly" },
+    "clip": { "start": 0, "duration": 6 },
+    "encode": { "width": 560, "fps": 12, "quality": 50 },
+    "note": "Screen-record the app while signed in, save it to tools/capture/input/syro.mov, then run: npm run capture syro"
+  }
+]
