@@ -12,7 +12,7 @@ I’m a design engineer? I like to build unique systems with a focus on user exp
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://angelogonza.com"><img src="assets/gelo-os.png" alt="GeloOS — an interactive desktop portfolio" width="100%"/></a>
+<a href="https://angelogonza.com"><img src="assets/geloos.webp" alt="GeloOS — an interactive desktop portfolio" width="100%"/></a>
 
 ### [GeloOS →](https://angelogonza.com)
 
@@ -36,7 +36,7 @@ The other half of the same site — a shader-led hero, animated page transitions
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://motion-canvas-seven.vercel.app/"><img src="assets/motion-canvas.jpg" alt="Motion Canvas — move your body, shape the sound" width="100%"/></a>
+<a href="https://motion-canvas-seven.vercel.app/"><img src="assets/motion-canvas.webp" alt="Motion Canvas — move your body, shape the sound" width="100%"/></a>
 
 ### [Motion Canvas →](https://motion-canvas-seven.vercel.app/)
 
@@ -47,7 +47,7 @@ A camera-led audiovisual instrument. Your movement becomes light, harmony, and r
 </td>
 <td width="50%" valign="top">
 
-<a href="https://pointvis.vercel.app/"><img src="assets/pointvis.jpg" alt="PointVis — microphone-reactive point cloud" width="100%"/></a>
+<a href="https://pointvis.vercel.app/"><img src="assets/pointvis.webp" alt="PointVis — microphone-reactive point cloud" width="100%"/></a>
 
 ### [PointVis →](https://pointvis.vercel.app/)
 
@@ -71,7 +71,7 @@ AI college guidance for first-generation and low-income students — scholarship
 </td>
 <td width="50%" valign="top">
 
-<a href="https://pixelate-seven.vercel.app"><img src="assets/pixelate.jpg" alt="Pixelate — any image or video, infinite styles" width="100%"/></a>
+<a href="https://pixelate-seven.vercel.app"><img src="assets/pixelate.webp" alt="Pixelate — any image or video, infinite styles" width="100%"/></a>
 
 ### [Pixelate →](https://pixelate-seven.vercel.app)
 
