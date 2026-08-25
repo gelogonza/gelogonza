@@ -12,7 +12,7 @@ I’m a design engineer? I like to build unique systems with a focus on user exp
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://angelogonza.com"><img src="assets/geloos.jpg" alt="GeloOS — an interactive desktop portfolio" width="100%"/></a>
+<a href="https://angelogonza.com"><img src="assets/gelo-os.png" alt="GeloOS — an interactive desktop portfolio" width="100%"/></a>
 
 ### [GeloOS →](https://angelogonza.com)
 
