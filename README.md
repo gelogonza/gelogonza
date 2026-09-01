@@ -136,6 +136,5 @@ One source of 45 colours generates 84 files across 14 system surfaces — a Hypr
 
 -----
 
-<sub>The animated demos above are recorded and encoded by [`tools/capture`](tools/capture) — one command per project, driven by synthetic mic and camera input, and verified to actually animate before they land.</sub>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" width="100%"/>
