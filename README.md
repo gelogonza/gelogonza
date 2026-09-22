@@ -14,7 +14,7 @@ I’m a design engineer? I like to build unique systems with a focus on user exp
 
 <a href="https://angelogonza.com"><img src="assets/geloos.webp" alt="GeloOS — an interactive desktop portfolio" width="100%"/></a>
 
-### [GeloOS →](https://angelogonza.com)
+### [GeloOS →](https://angelogonza.com/os)
 
 A portfolio that boots like an operating system. Draggable windows, a WebGL2 XMB wave field with six palettes, a magnifying dock, live weather, a music player, a lock screen, achievements, and a shared visitor wall.
 
