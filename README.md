@@ -25,9 +25,9 @@ A portfolio that boots like an operating system. Draggable windows, a WebGL2 XMB
 
 <img src="assets/design-portfolio.jpg" alt="Design portfolio — shader-led hero" width="100%"/>
 
-### Design Portfolio
+### [Design Portfolio](https://angelogonza.com)
 
-The other half of the same site — a shader-led hero, animated page transitions, a Work/Play landing page, a Three.js helix gallery, and long-form UX case studies (FridgeMate, Rideshare Redesign).
+The other half of the same site — a shader-led hero, animated page transitions, a Work/Play landing page, a 3d scene, and long-form UX case studies (Meta, Twitch, PlayStation, FridgeMate, Rideshare Redesign).
 
 `Next.js 16` `Framer Motion` `GSAP` `Three.js` `Tailwind 4`
 
